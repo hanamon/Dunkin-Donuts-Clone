@@ -1,0 +1,26 @@
+@charset "utf-8"; /* 던킨도너츠 intro */
+
+.sub-row-wrap>li>a{display:inline;}
+.sub-row-wrap>li:first-child>a{display:inline;}
+.navBtn-wrap>li{display:inline;}
+
+.section2-navBtn-wrap>li{display:inline;}
+
+#section4>div>ul>li:nth-child(2)>span{display:inline;}
+#section4>div>ul>li:nth-child(2)>p{display:inline;}
+.sec4-bottom>ul>li:nth-child(2)>p{display:inline;}
+.sec4-bottom>ul>li:nth-child(3)>a{display:inline;}
+
+#section6>div>ul>li:nth-child(1)>ul>li:nth-child(1)>i{display:inline;}                                 
+#section6>div>ul>li:nth-child(1)>ul>li:nth-child(2)>i{display:inline;}
+.sec6-icon-wrap{display:inline;}				
+.sec6-icon-wrap>li>a{display:inline;}
+.sec6-icon-wrap>li>a>i{display:inline;}
+
+.footer-rightBox-menuTxt-wrap>ul>li>a{display:inline;}
+.footer-right-wrap>ul>li:nth-child(3)>ul{display:inline;}
+.footer-right-wrap>ul>li:nth-child(1)>ul>li:nth-child(2)>ul>li>a{display:inline;}
+.footer-right-wrap>ul>li:nth-child(3)>ul>li{display:inline;}
+
+#w3c-wrap{display:inline;}
+

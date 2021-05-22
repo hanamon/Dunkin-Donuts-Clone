@@ -1,4 +1,4 @@
-# Dunkin-Donuts-Clone
+# Dunkin Donuts Clone 🐑
 
 Dunkin' Donuts Korean Web page clone coding (HTML, CSS, JS)
 

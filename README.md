@@ -1,4 +1,5 @@
-# dunkin-donuts-clone
+# Dunkin-Donuts-Clone
+
 Dunkin' Donuts Korean Web page clone coding (HTML, CSS, JS)
 
 Production URL : https://hanamon.github.io/Dunkin-Donuts-Clone/
